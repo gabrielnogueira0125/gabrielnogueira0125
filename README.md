@@ -30,6 +30,9 @@
  
 ![ocean](https://github.com/gabrielnogueira0125/gabrielnogueira0125/blob/output/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9)
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielnogueira0125&show_icons=true&locale=en&layout=compact" alt="gabrielnogueira0125" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielnogueira0125&show_icons=true&locale=en" alt="gabrielnogueira0125" /></p>
+<div align="center">
+<a href="https://github.com/gabrielnogueira0125">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielnogueira0125&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnogueira0125&layout=compact&langs_count=7&theme=dracula"/>
+</div>  
+  
